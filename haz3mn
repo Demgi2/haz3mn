@@ -1,0 +1,7 @@
+echo "# haz3mn" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Demgi2/haz3mn.git
+git push -u origin main
